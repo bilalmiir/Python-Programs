@@ -17,7 +17,4 @@ def calculate(list):
         for index, values in dic.items():
             print(index, " => ", values)
     else:
-        print("List must contain nine numbers.")
-        
-        
-calculate([0,1,2,3,4,5,6,7,8])        
+        print("List must contain nine numbers.")    
